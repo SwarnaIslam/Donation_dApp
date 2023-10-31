@@ -56,6 +56,7 @@ function App() {
         src={charity}
         className="img-fluid mx-auto d-block"
         width="15%"
+        alt=""
         style={{ marginTop: "20px", marginBottom: "40px" }}
       />
       <p className="text-center">Connected Account: {account}</p>
